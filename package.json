@@ -1,0 +1,23 @@
+{
+  "name": "googleplacesjs",
+  "version": "1.0.0",
+  "description": "A wrapper for the fantastic Google Places API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcornell/GooglePlacesJS.git"
+  },
+  "keywords": [
+    "google",
+    "places"
+  ],
+  "author": "Rob Cornell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcornell/GooglePlacesJS/issues"
+  },
+  "homepage": "https://github.com/rcornell/GooglePlacesJS#readme"
+}
